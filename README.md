@@ -1,2 +1,2 @@
-# PostgresSQL
-PostgresSQL
+# PostgreSQL
+PostgreSQL
